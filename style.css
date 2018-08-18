@@ -1,0 +1,23 @@
+#header {
+    text-align: center;
+    background: #42f4e8;
+    color: #fff;
+    padding: 15px 0;
+}
+
+h1 {
+    margin: 0;
+    font-family: 'Jua', sans-serif;
+}
+
+#content {
+    color: #32ff00;
+    text-align: -webkit-center;
+    background: #ffff00;
+    padding: 10px 0;
+    font-family: 'Source Code Pro', monospace;
+}
+
+#img1 {
+    height: 100px;
+}
